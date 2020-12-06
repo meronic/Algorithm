@@ -8,6 +8,3 @@
 
 Knapsack = []
 
-print("hello world")
-
-print(Knapsack)
